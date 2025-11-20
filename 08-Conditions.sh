@@ -10,3 +10,6 @@ else
     echo "Given number $NUMBER greater than 10"
 fi
 
+#-gt
+#-eq
+#-ne
