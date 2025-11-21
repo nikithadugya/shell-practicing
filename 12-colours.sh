@@ -9,3 +9,4 @@ echo -e "$G Hello world $Normal"  #Here -e indicates enabling and $G indicates G
 echo "Check this colour"
 echo "OK"
 echo "yaaa"
+echo "Noooo"
